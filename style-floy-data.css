@@ -1,9 +1,8 @@
 body {
-    width: 1440px;
-    background-color: hsl(223, 100%, 1%);
+    background-color: hsl(228, 100%, 12%);
     font-family: Verdana, sans-serif;   
-    display: flex;
-    justify-content: center;
+    margin: auto;
+
 }
 
 
@@ -12,6 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 550px;
+    margin: auto;
 }
 
 
@@ -186,7 +186,7 @@ body {
     z-index: -1;
     width: 100%;
     bottom: 0px;
-    filter: opacity(12%);
+    filter: opacity(60%);
 }
 
 .low-high {
